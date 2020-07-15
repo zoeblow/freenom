@@ -330,4 +330,7 @@ $ cd /data/wwwroot/freenom/ && php run
 - [guzzle](https://github.com/guzzle/guzzle) （Curl库）
 
 ### 🥝  开源协议
-[MIT](https://opensource.org/licenses/mit-license.php) :boay_bottle: 
+[MIT](https://opensource.org/licenses/mit-license.php) 
+
+
+:boay_bottle: 
